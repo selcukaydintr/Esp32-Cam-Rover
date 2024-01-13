@@ -2,8 +2,8 @@
 ESP32-CAM Remote Control 
 */
 
-const char* ssid = "Polis155";
-const char* password = "144687saa";
+const char* ssid = "SSID Here";
+const char* password = "SSPASS Here";
 
 #include "esp_wifi.h"
 #include "esp_camera.h"
